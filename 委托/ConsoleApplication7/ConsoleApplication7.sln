@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托示例", "ConsoleApplication7\委托示例.csproj", "{6149697B-0B09-4DDA-933A-B4E9A4972CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "窗体传值——订阅者模式", "WindowsFormsApplication1\窗体传值——订阅者模式.csproj", "{19BD0D45-79EB-401C-B476-F6CAF57324D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "窗体传值——构造函数", "WindowsFormsApplication2\窗体传值——构造函数.csproj", "{D8511945-8BE8-48C5-AC43-2909BC540153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托示例——sender、EventArgs", "ConsoleApplication2\委托示例——sender、EventArgs.csproj", "{85B62105-453A-44BD-8994-577A0EBB3298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "观察者模式——银行取钱", "观察者模式——银行取钱\观察者模式——银行取钱.csproj", "{C3676AFE-3E80-46AE-BD6C-568C925F8FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6149697B-0B09-4DDA-933A-B4E9A4972CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6149697B-0B09-4DDA-933A-B4E9A4972CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6149697B-0B09-4DDA-933A-B4E9A4972CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6149697B-0B09-4DDA-933A-B4E9A4972CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19BD0D45-79EB-401C-B476-F6CAF57324D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BD0D45-79EB-401C-B476-F6CAF57324D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BD0D45-79EB-401C-B476-F6CAF57324D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BD0D45-79EB-401C-B476-F6CAF57324D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8511945-8BE8-48C5-AC43-2909BC540153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8511945-8BE8-48C5-AC43-2909BC540153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8511945-8BE8-48C5-AC43-2909BC540153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8511945-8BE8-48C5-AC43-2909BC540153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B62105-453A-44BD-8994-577A0EBB3298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B62105-453A-44BD-8994-577A0EBB3298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B62105-453A-44BD-8994-577A0EBB3298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B62105-453A-44BD-8994-577A0EBB3298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3676AFE-3E80-46AE-BD6C-568C925F8FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3676AFE-3E80-46AE-BD6C-568C925F8FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3676AFE-3E80-46AE-BD6C-568C925F8FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3676AFE-3E80-46AE-BD6C-568C925F8FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\04_Study\03_.Net\Thread\Thread\2.3_LambaExpression\bin\Debug\2.3_LambaExpression.exe.config
+C:\04_Study\03_.Net\Thread\Thread\2.3_LambaExpression\bin\Debug\2.3_LambaExpression.exe
+C:\04_Study\03_.Net\Thread\Thread\2.3_LambaExpression\bin\Debug\2.3_LambaExpression.pdb
+C:\04_Study\03_.Net\Thread\Thread\2.3_LambaExpression\obj\Debug\2.3_LambaExpression.exe
+C:\04_Study\03_.Net\Thread\Thread\2.3_LambaExpression\obj\Debug\2.3_LambaExpression.pdb

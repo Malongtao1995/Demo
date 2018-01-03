@@ -1,0 +1,10 @@
+C:\04_Study\03_.Net\Thread\Thread\2.9_PassingData_TemporaryVariable\bin\Debug\2.9_PassingData_TemporaryVariable.exe.config
+C:\04_Study\03_.Net\Thread\Thread\2.9_PassingData_TemporaryVariable\bin\Debug\2.9_PassingData_TemporaryVariable.exe
+C:\04_Study\03_.Net\Thread\Thread\2.9_PassingData_TemporaryVariable\bin\Debug\2.9_PassingData_TemporaryVariable.pdb
+C:\04_Study\03_.Net\Thread\Thread\2.9_PassingData_TemporaryVariable\obj\Debug\2.9_PassingData_TemporaryVariable.exe
+C:\04_Study\03_.Net\Thread\Thread\2.9_PassingData_TemporaryVariable\obj\Debug\2.9_PassingData_TemporaryVariable.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.9_PassingData_TemporaryVariable\bin\Debug\2.9_PassingData_TemporaryVariable.exe.config
+C:\Users\JustPro_Chris\Desktop\Thread\2.9_PassingData_TemporaryVariable\obj\Debug\2.9_PassingData_TemporaryVariable.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.9_PassingData_TemporaryVariable\obj\Debug\2.9_PassingData_TemporaryVariable.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.9_PassingData_TemporaryVariable\bin\Debug\2.9_PassingData_TemporaryVariable.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.9_PassingData_TemporaryVariable\bin\Debug\2.9_PassingData_TemporaryVariable.pdb

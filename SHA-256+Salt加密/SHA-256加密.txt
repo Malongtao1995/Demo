@@ -1,0 +1,44 @@
+protected void btnRegister_Click(object sender, EventArgs e)
+        {
+           //用户名和密码
+            string userName = this.TextBoxUserName.Text;
+            string userPwd = this.TextBoxPWD.Text;
+            //salt
+            string strSalt= Guid.NewGuid().ToString();
+           
+            //SHA256加密
+            byte[] pwdAndSalt = Encoding.UTF8.GetBytes(userPwd + strSalt);
+            byte[] hashBytes = new SHA256Managed().ComputeHash(pwdAndSalt);
+            string hashStr = Convert.ToBase64String(hashBytes);
+
+            StringBuilder strBuid = new StringBuilder();
+            strBuid.Append("INSERT INTO userInfo(");
+            strBuid.Append("userName,userPassword,salt) values(");
+            strBuid.Append("@userName,@hashStr,@strSalt)");
+            SqlParameter[] sqlpara = {
+                                         new SqlParameter("@userName",SqlDbType.NVarChar,50),
+                                         new SqlParameter("@hashStr",SqlDbType.NVarChar,50),
+                                         new SqlParameter("@strSalt",SqlDbType.NVarChar,50)
+                                     };
+            sqlpara[0].Value = this.TextBoxUserName.Text;
+            sqlpara[1].Value = hashStr;
+            sqlpara[2].Value = strSalt;
+            //获取连接字符串
+            string sqlConStr = ConfigurationManager.ConnectionStrings["conStr"].ConnectionString;
+
+            using (SqlConnection con=new SqlConnection(sqlConStr))
+            {
+                con.Open();
+                SqlCommand cmd = new SqlCommand(strBuid.ToString(),con);
+                cmd.Parameters.AddRange(sqlpara);
+                if (cmd.ExecuteNonQuery()>0)
+                {
+                    Response.Write("<script>alert('注册成功！')</script>");
+                }
+                else
+                {
+                    Response.Write("<script>alert('注册失败！')</script>");
+                }
+                 
+            }
+        }

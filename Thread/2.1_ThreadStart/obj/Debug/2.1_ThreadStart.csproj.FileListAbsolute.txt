@@ -1,0 +1,12 @@
+C:\04_Study\03_.Net\Thread\Thread\2.1_ThreadStart\obj\Debug\2.1_ThreadStart.csprojResolveAssemblyReference.cache
+C:\04_Study\03_.Net\Thread\Thread\2.1_ThreadStart\bin\Debug\2.1_ThreadStart.exe.config
+C:\04_Study\03_.Net\Thread\Thread\2.1_ThreadStart\bin\Debug\2.1_ThreadStart.exe
+C:\04_Study\03_.Net\Thread\Thread\2.1_ThreadStart\bin\Debug\2.1_ThreadStart.pdb
+C:\04_Study\03_.Net\Thread\Thread\2.1_ThreadStart\obj\Debug\2.1_ThreadStart.exe
+C:\04_Study\03_.Net\Thread\Thread\2.1_ThreadStart\obj\Debug\2.1_ThreadStart.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.1_ThreadStart\bin\Debug\2.1_ThreadStart.exe.config
+C:\Users\JustPro_Chris\Desktop\Thread\2.1_ThreadStart\obj\Debug\2.1_ThreadStart.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.1_ThreadStart\obj\Debug\2.1_ThreadStart.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.1_ThreadStart\bin\Debug\2.1_ThreadStart.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.1_ThreadStart\bin\Debug\2.1_ThreadStart.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.1_ThreadStart\obj\Debug\2.1_ThreadStart.csprojResolveAssemblyReference.cache

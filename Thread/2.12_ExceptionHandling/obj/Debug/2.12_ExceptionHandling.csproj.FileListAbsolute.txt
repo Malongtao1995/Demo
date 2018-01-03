@@ -1,0 +1,11 @@
+C:\04_Study\03_.Net\Thread\Thread\2.12_ExceptionHandling\bin\Debug\2.12_ExceptionHandling.exe.config
+C:\04_Study\03_.Net\Thread\Thread\2.12_ExceptionHandling\bin\Debug\2.12_ExceptionHandling.exe
+C:\04_Study\03_.Net\Thread\Thread\2.12_ExceptionHandling\bin\Debug\2.12_ExceptionHandling.pdb
+C:\04_Study\03_.Net\Thread\Thread\2.12_ExceptionHandling\obj\Debug\2.12_ExceptionHandling.exe
+C:\04_Study\03_.Net\Thread\Thread\2.12_ExceptionHandling\obj\Debug\2.12_ExceptionHandling.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.12_ExceptionHandling\bin\Debug\2.12_ExceptionHandling.exe.config
+C:\Users\JustPro_Chris\Desktop\Thread\2.12_ExceptionHandling\obj\Debug\2.12_ExceptionHandling.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.12_ExceptionHandling\obj\Debug\2.12_ExceptionHandling.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.12_ExceptionHandling\bin\Debug\2.12_ExceptionHandling.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.12_ExceptionHandling\bin\Debug\2.12_ExceptionHandling.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.12_ExceptionHandling\obj\Debug\2.12_ExceptionHandling.csprojResolveAssemblyReference.cache

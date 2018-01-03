@@ -1,0 +1,4 @@
+c:\Users\JUSTDEV\documents\visual studio 2013\Projects\Reflex\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\Users\JUSTDEV\documents\visual studio 2013\Projects\Reflex\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\Users\JUSTDEV\documents\visual studio 2013\Projects\Reflex\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\Users\JUSTDEV\documents\visual studio 2013\Projects\Reflex\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

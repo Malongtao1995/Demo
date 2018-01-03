@@ -1,0 +1,12 @@
+C:\04_Study\03_.Net\Thread\Thread\2.5_PassingDataToAThread\bin\Debug\2.5_PassingDataToAThread.exe.config
+C:\04_Study\03_.Net\Thread\Thread\2.5_PassingDataToAThread\bin\Debug\2.5_PassingDataToAThread.exe
+C:\04_Study\03_.Net\Thread\Thread\2.5_PassingDataToAThread\bin\Debug\2.5_PassingDataToAThread.pdb
+C:\04_Study\03_.Net\Thread\Thread\2.5_PassingDataToAThread\obj\Debug\2.5_PassingDataToAThread.exe
+C:\04_Study\03_.Net\Thread\Thread\2.5_PassingDataToAThread\obj\Debug\2.5_PassingDataToAThread.pdb
+C:\04_Study\03_.Net\Thread\Thread\2.5_PassingDataToAThread\obj\Debug\2.5_PassingDataToAThread.csprojResolveAssemblyReference.cache
+C:\Users\JustPro_Chris\Desktop\Thread\2.5_PassingDataToAThread\bin\Debug\2.5_PassingDataToAThread.exe.config
+C:\Users\JustPro_Chris\Desktop\Thread\2.5_PassingDataToAThread\obj\Debug\2.5_PassingDataToAThread.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.5_PassingDataToAThread\obj\Debug\2.5_PassingDataToAThread.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.5_PassingDataToAThread\bin\Debug\2.5_PassingDataToAThread.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.5_PassingDataToAThread\bin\Debug\2.5_PassingDataToAThread.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.5_PassingDataToAThread\obj\Debug\2.5_PassingDataToAThread.csprojResolveAssemblyReference.cache

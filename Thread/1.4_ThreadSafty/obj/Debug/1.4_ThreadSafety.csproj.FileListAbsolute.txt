@@ -1,0 +1,6 @@
+C:\04_Study\03_.Net\Thread\Thread\1.4_ThreadSafty\bin\Debug\1.4_ThreadSafty.exe.config
+C:\04_Study\03_.Net\Thread\Thread\1.4_ThreadSafty\bin\Debug\1.4_ThreadSafty.exe
+C:\04_Study\03_.Net\Thread\Thread\1.4_ThreadSafty\bin\Debug\1.4_ThreadSafty.pdb
+C:\04_Study\03_.Net\Thread\Thread\1.4_ThreadSafty\obj\Debug\1.4_ThreadSafety.csprojResolveAssemblyReference.cache
+C:\04_Study\03_.Net\Thread\Thread\1.4_ThreadSafty\obj\Debug\1.4_ThreadSafty.exe
+C:\04_Study\03_.Net\Thread\Thread\1.4_ThreadSafty\obj\Debug\1.4_ThreadSafty.pdb

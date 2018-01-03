@@ -1,0 +1,6 @@
+C:\04_Study\03_.Net\Thread\Thread\1.2_LocalVariable\bin\Debug\1.2_LocalVariable.exe.config
+C:\04_Study\03_.Net\Thread\Thread\1.2_LocalVariable\bin\Debug\1.2_LocalVariable.exe
+C:\04_Study\03_.Net\Thread\Thread\1.2_LocalVariable\bin\Debug\1.2_LocalVariable.pdb
+C:\04_Study\03_.Net\Thread\Thread\1.2_LocalVariable\obj\Debug\1.2_LocalVariable.csprojResolveAssemblyReference.cache
+C:\04_Study\03_.Net\Thread\Thread\1.2_LocalVariable\obj\Debug\1.2_LocalVariable.exe
+C:\04_Study\03_.Net\Thread\Thread\1.2_LocalVariable\obj\Debug\1.2_LocalVariable.pdb

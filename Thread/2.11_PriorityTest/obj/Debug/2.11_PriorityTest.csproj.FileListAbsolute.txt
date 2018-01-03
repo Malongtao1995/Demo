@@ -1,0 +1,12 @@
+C:\04_Study\03_.Net\Thread\Thread\2.11_PriorityTest\bin\Debug\2.11_PriorityTest.exe.config
+C:\04_Study\03_.Net\Thread\Thread\2.11_PriorityTest\bin\Debug\2.11_PriorityTest.exe
+C:\04_Study\03_.Net\Thread\Thread\2.11_PriorityTest\bin\Debug\2.11_PriorityTest.pdb
+C:\04_Study\03_.Net\Thread\Thread\2.11_PriorityTest\obj\Debug\2.11_PriorityTest.csprojResolveAssemblyReference.cache
+C:\04_Study\03_.Net\Thread\Thread\2.11_PriorityTest\obj\Debug\2.11_PriorityTest.exe
+C:\04_Study\03_.Net\Thread\Thread\2.11_PriorityTest\obj\Debug\2.11_PriorityTest.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.11_PriorityTest\bin\Debug\2.11_PriorityTest.exe.config
+C:\Users\JustPro_Chris\Desktop\Thread\2.11_PriorityTest\obj\Debug\2.11_PriorityTest.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.11_PriorityTest\obj\Debug\2.11_PriorityTest.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.11_PriorityTest\bin\Debug\2.11_PriorityTest.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.11_PriorityTest\bin\Debug\2.11_PriorityTest.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.11_PriorityTest\obj\Debug\2.11_PriorityTest.csprojResolveAssemblyReference.cache

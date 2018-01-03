@@ -1,0 +1,5 @@
+C:\Users\JustPro_Chris\Desktop\NPinyin\bin\Debug\NPinyin.dll
+C:\Users\JustPro_Chris\Desktop\NPinyin\bin\Debug\NPinyin.pdb
+C:\Users\JustPro_Chris\Desktop\NPinyin\obj\Debug\NPinyin.csprojResolveAssemblyReference.cache
+C:\Users\JustPro_Chris\Desktop\NPinyin\obj\Debug\NPinyin.dll
+C:\Users\JustPro_Chris\Desktop\NPinyin\obj\Debug\NPinyin.pdb

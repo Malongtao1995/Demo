@@ -1,0 +1,12 @@
+C:\04_Study\03_.Net\Thread\Thread\3.4_AsynchoronousDelegateInvocation\bin\Debug\3.4_AsynchoronousDelegateInvocation.exe.config
+C:\04_Study\03_.Net\Thread\Thread\3.4_AsynchoronousDelegateInvocation\bin\Debug\3.4_AsynchoronousDelegateInvocation.exe
+C:\04_Study\03_.Net\Thread\Thread\3.4_AsynchoronousDelegateInvocation\bin\Debug\3.4_AsynchoronousDelegateInvocation.pdb
+C:\04_Study\03_.Net\Thread\Thread\3.4_AsynchoronousDelegateInvocation\obj\Debug\3.4_AsynchoronousDelegateInvocation.csprojResolveAssemblyReference.cache
+C:\04_Study\03_.Net\Thread\Thread\3.4_AsynchoronousDelegateInvocation\obj\Debug\3.4_AsynchoronousDelegateInvocation.exe
+C:\04_Study\03_.Net\Thread\Thread\3.4_AsynchoronousDelegateInvocation\obj\Debug\3.4_AsynchoronousDelegateInvocation.pdb
+D:\_HelloWorld\01_MyProjects\16_多线程\ThreadTest\Thread\Thread\3.4_AsynchoronousDelegateInvocation\bin\Debug\3.4_AsynchoronousDelegateInvocation.exe.config
+D:\_HelloWorld\01_MyProjects\16_多线程\ThreadTest\Thread\Thread\3.4_AsynchoronousDelegateInvocation\obj\Debug\3.4_AsynchoronousDelegateInvocation.exe
+D:\_HelloWorld\01_MyProjects\16_多线程\ThreadTest\Thread\Thread\3.4_AsynchoronousDelegateInvocation\obj\Debug\3.4_AsynchoronousDelegateInvocation.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\3.4_AsynchoronousDelegateInvocation\bin\Debug\3.4_AsynchoronousDelegateInvocation.exe.config
+C:\Users\JustPro_Chris\Desktop\Thread\3.4_AsynchoronousDelegateInvocation\obj\Debug\3.4_AsynchoronousDelegateInvocation.exe
+C:\Users\JustPro_Chris\Desktop\Thread\3.4_AsynchoronousDelegateInvocation\obj\Debug\3.4_AsynchoronousDelegateInvocation.pdb

@@ -1,0 +1,10 @@
+C:\04_Study\03_.Net\Thread\Thread\2.6_PassingDataToAThread_ThreadStart\bin\Debug\2.6_PassingDataToAThread_ThreadStart.exe.config
+C:\04_Study\03_.Net\Thread\Thread\2.6_PassingDataToAThread_ThreadStart\bin\Debug\2.6_PassingDataToAThread_ThreadStart.exe
+C:\04_Study\03_.Net\Thread\Thread\2.6_PassingDataToAThread_ThreadStart\bin\Debug\2.6_PassingDataToAThread_ThreadStart.pdb
+C:\04_Study\03_.Net\Thread\Thread\2.6_PassingDataToAThread_ThreadStart\obj\Debug\2.6_PassingDataToAThread_ThreadStart.exe
+C:\04_Study\03_.Net\Thread\Thread\2.6_PassingDataToAThread_ThreadStart\obj\Debug\2.6_PassingDataToAThread_ThreadStart.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.6_PassingDataToAThread_ThreadStart\bin\Debug\2.6_PassingDataToAThread_ThreadStart.exe.config
+C:\Users\JustPro_Chris\Desktop\Thread\2.6_PassingDataToAThread_ThreadStart\obj\Debug\2.6_PassingDataToAThread_ThreadStart.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.6_PassingDataToAThread_ThreadStart\obj\Debug\2.6_PassingDataToAThread_ThreadStart.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.6_PassingDataToAThread_ThreadStart\bin\Debug\2.6_PassingDataToAThread_ThreadStart.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.6_PassingDataToAThread_ThreadStart\bin\Debug\2.6_PassingDataToAThread_ThreadStart.pdb

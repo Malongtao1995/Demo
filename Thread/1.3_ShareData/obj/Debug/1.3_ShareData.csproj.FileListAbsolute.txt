@@ -1,0 +1,6 @@
+C:\04_Study\03_.Net\Thread\Thread\1.3_ShareData\bin\Debug\1.3_ShareData.exe.config
+C:\04_Study\03_.Net\Thread\Thread\1.3_ShareData\bin\Debug\1.3_ShareData.exe
+C:\04_Study\03_.Net\Thread\Thread\1.3_ShareData\bin\Debug\1.3_ShareData.pdb
+C:\04_Study\03_.Net\Thread\Thread\1.3_ShareData\obj\Debug\1.3_ShareData.exe
+C:\04_Study\03_.Net\Thread\Thread\1.3_ShareData\obj\Debug\1.3_ShareData.pdb
+C:\04_Study\03_.Net\Thread\Thread\1.3_ShareData\obj\Debug\1.3_ShareData.csprojResolveAssemblyReference.cache

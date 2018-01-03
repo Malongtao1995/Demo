@@ -1,0 +1,7 @@
+C:\Users\JustPro_Chris\Desktop\NPinyin\NPinyinTest\bin\Debug\NPinyinTest.exe
+C:\Users\JustPro_Chris\Desktop\NPinyin\NPinyinTest\bin\Debug\NPinyinTest.pdb
+C:\Users\JustPro_Chris\Desktop\NPinyin\NPinyinTest\bin\Debug\NPinyin.dll
+C:\Users\JustPro_Chris\Desktop\NPinyin\NPinyinTest\bin\Debug\NPinyin.pdb
+C:\Users\JustPro_Chris\Desktop\NPinyin\NPinyinTest\obj\x86\Debug\NPinyinTest.csprojResolveAssemblyReference.cache
+C:\Users\JustPro_Chris\Desktop\NPinyin\NPinyinTest\obj\x86\Debug\NPinyinTest.exe
+C:\Users\JustPro_Chris\Desktop\NPinyin\NPinyinTest\obj\x86\Debug\NPinyinTest.pdb

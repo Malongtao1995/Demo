@@ -1,0 +1,5 @@
+C:\04_Study\03_.Net\Thread\Thread\1.5_TrheadSafety\bin\Debug\1.5_TrheadSafety.exe.config
+C:\04_Study\03_.Net\Thread\Thread\1.5_TrheadSafety\bin\Debug\1.5_TrheadSafety.exe
+C:\04_Study\03_.Net\Thread\Thread\1.5_TrheadSafety\bin\Debug\1.5_TrheadSafety.pdb
+C:\04_Study\03_.Net\Thread\Thread\1.5_TrheadSafety\obj\Debug\1.5_TrheadSafety.exe
+C:\04_Study\03_.Net\Thread\Thread\1.5_TrheadSafety\obj\Debug\1.5_TrheadSafety.pdb

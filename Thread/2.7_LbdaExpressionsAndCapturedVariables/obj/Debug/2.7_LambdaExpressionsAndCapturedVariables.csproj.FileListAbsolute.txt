@@ -1,0 +1,12 @@
+C:\04_Study\03_.Net\Thread\Thread\2.7_LbdaExpressionsAndCapturedVariables\bin\Debug\2.7_LambdaExpressionsAndCapturedVariables.exe.config
+C:\04_Study\03_.Net\Thread\Thread\2.7_LbdaExpressionsAndCapturedVariables\bin\Debug\2.7_LambdaExpressionsAndCapturedVariables.exe
+C:\04_Study\03_.Net\Thread\Thread\2.7_LbdaExpressionsAndCapturedVariables\bin\Debug\2.7_LambdaExpressionsAndCapturedVariables.pdb
+C:\04_Study\03_.Net\Thread\Thread\2.7_LbdaExpressionsAndCapturedVariables\obj\Debug\2.7_LambdaExpressionsAndCapturedVariables.csprojResolveAssemblyReference.cache
+C:\04_Study\03_.Net\Thread\Thread\2.7_LbdaExpressionsAndCapturedVariables\obj\Debug\2.7_LambdaExpressionsAndCapturedVariables.exe
+C:\04_Study\03_.Net\Thread\Thread\2.7_LbdaExpressionsAndCapturedVariables\obj\Debug\2.7_LambdaExpressionsAndCapturedVariables.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.7_LbdaExpressionsAndCapturedVariables\bin\Debug\2.7_LambdaExpressionsAndCapturedVariables.exe.config
+C:\Users\JustPro_Chris\Desktop\Thread\2.7_LbdaExpressionsAndCapturedVariables\obj\Debug\2.7_LambdaExpressionsAndCapturedVariables.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.7_LbdaExpressionsAndCapturedVariables\obj\Debug\2.7_LambdaExpressionsAndCapturedVariables.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.7_LbdaExpressionsAndCapturedVariables\bin\Debug\2.7_LambdaExpressionsAndCapturedVariables.exe
+C:\Users\JustPro_Chris\Desktop\Thread\2.7_LbdaExpressionsAndCapturedVariables\bin\Debug\2.7_LambdaExpressionsAndCapturedVariables.pdb
+C:\Users\JustPro_Chris\Desktop\Thread\2.7_LbdaExpressionsAndCapturedVariables\obj\Debug\2.7_LambdaExpressionsAndCapturedVariables.csprojResolveAssemblyReference.cache

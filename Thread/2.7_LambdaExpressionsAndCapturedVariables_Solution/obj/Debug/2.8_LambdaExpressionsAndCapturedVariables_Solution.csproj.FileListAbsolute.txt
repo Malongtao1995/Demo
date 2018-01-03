@@ -1,0 +1,5 @@
+C:\04_Study\03_.Net\Thread\Thread\2.7_LambdaExpressionsAndCapturedVariables_Solution\bin\Debug\2.8_LambdaExpressionsAndCapturedVariables_Solution.exe.config
+C:\04_Study\03_.Net\Thread\Thread\2.7_LambdaExpressionsAndCapturedVariables_Solution\bin\Debug\2.8_LambdaExpressionsAndCapturedVariables_Solution.exe
+C:\04_Study\03_.Net\Thread\Thread\2.7_LambdaExpressionsAndCapturedVariables_Solution\bin\Debug\2.8_LambdaExpressionsAndCapturedVariables_Solution.pdb
+C:\04_Study\03_.Net\Thread\Thread\2.7_LambdaExpressionsAndCapturedVariables_Solution\obj\Debug\2.8_LambdaExpressionsAndCapturedVariables_Solution.exe
+C:\04_Study\03_.Net\Thread\Thread\2.7_LambdaExpressionsAndCapturedVariables_Solution\obj\Debug\2.8_LambdaExpressionsAndCapturedVariables_Solution.pdb

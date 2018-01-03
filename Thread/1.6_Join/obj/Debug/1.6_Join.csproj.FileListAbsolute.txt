@@ -1,0 +1,6 @@
+C:\04_Study\03_.Net\Thread\Thread\1.6_Join\bin\Debug\1.6_Join.exe.config
+C:\04_Study\03_.Net\Thread\Thread\1.6_Join\bin\Debug\1.6_Join.exe
+C:\04_Study\03_.Net\Thread\Thread\1.6_Join\bin\Debug\1.6_Join.pdb
+C:\04_Study\03_.Net\Thread\Thread\1.6_Join\obj\Debug\1.6_Join.csprojResolveAssemblyReference.cache
+C:\04_Study\03_.Net\Thread\Thread\1.6_Join\obj\Debug\1.6_Join.exe
+C:\04_Study\03_.Net\Thread\Thread\1.6_Join\obj\Debug\1.6_Join.pdb

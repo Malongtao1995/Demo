@@ -1,0 +1,13 @@
+c:\users\justpro_chris\documents\visual studio 2013\Projects\ConsoleApplication7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\justpro_chris\documents\visual studio 2013\Projects\ConsoleApplication7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\justpro_chris\documents\visual studio 2013\Projects\ConsoleApplication7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\justpro_chris\documents\visual studio 2013\Projects\ConsoleApplication7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\justpro_chris\documents\visual studio 2013\Projects\ConsoleApplication7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormSub.resources
+c:\users\justpro_chris\documents\visual studio 2013\Projects\ConsoleApplication7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormMain.resources
+c:\users\justpro_chris\documents\visual studio 2013\Projects\ConsoleApplication7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\justpro_chris\documents\visual studio 2013\Projects\ConsoleApplication7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\justpro_chris\documents\visual studio 2013\Projects\ConsoleApplication7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\justpro_chris\documents\visual studio 2013\Projects\ConsoleApplication7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\JustPro_Chris\Desktop\委托\ConsoleApplication7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JustPro_Chris\Desktop\委托\ConsoleApplication7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\JustPro_Chris\Desktop\委托\ConsoleApplication7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

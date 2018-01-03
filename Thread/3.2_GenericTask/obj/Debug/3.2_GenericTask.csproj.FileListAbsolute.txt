@@ -1,0 +1,6 @@
+C:\04_Study\03_.Net\Thread\Thread\3.2_GenericTask\bin\Debug\3.2_GenericTask.exe.config
+C:\04_Study\03_.Net\Thread\Thread\3.2_GenericTask\bin\Debug\3.2_GenericTask.exe
+C:\04_Study\03_.Net\Thread\Thread\3.2_GenericTask\bin\Debug\3.2_GenericTask.pdb
+C:\04_Study\03_.Net\Thread\Thread\3.2_GenericTask\obj\Debug\3.2_GenericTask.exe
+C:\04_Study\03_.Net\Thread\Thread\3.2_GenericTask\obj\Debug\3.2_GenericTask.pdb
+C:\04_Study\03_.Net\Thread\Thread\3.2_GenericTask\obj\Debug\3.2_GenericTask.csprojResolveAssemblyReference.cache

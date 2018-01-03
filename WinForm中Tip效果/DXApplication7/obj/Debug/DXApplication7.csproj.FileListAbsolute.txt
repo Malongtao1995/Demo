@@ -1,0 +1,9 @@
+c:\users\justpro_chris\documents\visual studio 2013\Projects\DXApplication7\DXApplication7\obj\Debug\DXApplication7.csprojResolveAssemblyReference.cache
+c:\users\justpro_chris\documents\visual studio 2013\Projects\DXApplication7\DXApplication7\obj\Debug\DXApplication7.Form1.resources
+c:\users\justpro_chris\documents\visual studio 2013\Projects\DXApplication7\DXApplication7\obj\Debug\DXApplication7.Properties.Resources.resources
+c:\users\justpro_chris\documents\visual studio 2013\Projects\DXApplication7\DXApplication7\obj\Debug\DXApplication7.csproj.GenerateResource.Cache
+c:\users\justpro_chris\documents\visual studio 2013\Projects\DXApplication7\DXApplication7\obj\Debug\DXApplication7.exe.licenses
+c:\users\justpro_chris\documents\visual studio 2013\Projects\DXApplication7\DXApplication7\bin\Debug\DXApplication7.exe
+c:\users\justpro_chris\documents\visual studio 2013\Projects\DXApplication7\DXApplication7\bin\Debug\DXApplication7.pdb
+c:\users\justpro_chris\documents\visual studio 2013\Projects\DXApplication7\DXApplication7\obj\Debug\DXApplication7.exe
+c:\users\justpro_chris\documents\visual studio 2013\Projects\DXApplication7\DXApplication7\obj\Debug\DXApplication7.pdb

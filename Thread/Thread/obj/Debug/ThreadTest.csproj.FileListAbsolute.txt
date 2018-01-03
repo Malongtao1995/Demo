@@ -1,0 +1,6 @@
+C:\04_Study\03_.Net\Thread\Thread\Thread\obj\Debug\ThreadTest.csprojResolveAssemblyReference.cache
+C:\04_Study\03_.Net\Thread\Thread\Thread\bin\Debug\Thread.exe.config
+C:\04_Study\03_.Net\Thread\Thread\Thread\bin\Debug\Thread.exe
+C:\04_Study\03_.Net\Thread\Thread\Thread\bin\Debug\Thread.pdb
+C:\04_Study\03_.Net\Thread\Thread\Thread\obj\Debug\Thread.exe
+C:\04_Study\03_.Net\Thread\Thread\Thread\obj\Debug\Thread.pdb
